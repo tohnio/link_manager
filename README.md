@@ -10,12 +10,12 @@ Um aplicativo web para gerenciar e organizar links e séries de forma eficiente.
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/tohnio/tab-keeper-prime.git
+   git clone https://github.com/tohnio/link_manager.git
    ```
 
 2. Entre no diretório do projeto:
    ```
-   cd tab-keeper-prime
+   cd link_manager
    ```
 
 3. Instale as dependências:
