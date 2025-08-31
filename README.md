@@ -1,4 +1,4 @@
-# Tab Keeper Prime
+# Link Manager
 
 Um aplicativo web para gerenciar e organizar links e séries de forma eficiente.
 
